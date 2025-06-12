@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="20in"
+   height="11.614173in"
+   viewBox="0 0 508 294.99999"
+   version="1.1"
+   id="lcio-tpl-gf-imp"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="sheet3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.60989584"
+     inkscape:cx="978.03586"
+     inkscape:cy="565.67036"
+     inkscape:document-units="in"
+     inkscape:current-layer="design"
+     showgrid="false"
+     inkscape:showpageshadow="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     units="mm"
+     inkscape:lockguides="false"
+     inkscape:snap-page="true"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="-9"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     guidecolor="#ffae00"
+     guideopacity="1">
+    <sodipodi:guide
+       position="0.5,294.5"
+       orientation="0,1"
+       id="guide-top"
+       inkscape:locked="false"
+       inkscape:label="Top"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0.5,16"
+       orientation="0,1"
+       id="guide-bottom"
+       inkscape:locked="false"
+       inkscape:label="Bottom"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="247.75,155.25"
+       orientation="0,1"
+       id="guide-hcenter"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="18,294.5"
+       orientation="1,0"
+       id="guide-eng-left"
+       inkscape:locked="false"
+       inkscape:label="Engrave left"
+       inkscape:color="rgb(127,0,255)" />
+    <sodipodi:guide
+       position="477.5,294.5"
+       orientation="1,0"
+       id="guide-eng-right"
+       inkscape:locked="false"
+       inkscape:label="Engrave right"
+       inkscape:color="rgb(127,0,255)" />
+    <sodipodi:guide
+       position="247.75,155.25"
+       orientation="1,0"
+       id="guide-eng-vcenter"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(127,0,255)" />
+    <sodipodi:guide
+       position="0.5,294.5"
+       orientation="1,0"
+       id="guide-cut-left"
+       inkscape:locked="false"
+       inkscape:label="Cut left"
+       inkscape:color="rgb(255,0,255)" />
+    <sodipodi:guide
+       position="494.5,294.5"
+       orientation="1,0"
+       id="guide-cut-right"
+       inkscape:locked="false"
+       inkscape:label="Cut right"
+       inkscape:color="rgb(255,0,255)" />
+    <sodipodi:guide
+       position="247.5,155.25"
+       orientation="1,0"
+       id="guide-cut-vcenter"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(255,0,255)" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid656"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="mm" />
+    <sodipodi:guide
+       position="406.4,269.6"
+       orientation="-1,0"
+       id="guide25"
+       inkscape:locked="false"
+       inkscape:label="End of Sheet"
+       inkscape:color="rgb(229,165,10)" />
+  </sodipodi:namedview>
+  <g
+     inkscape:label="Design"
+     inkscape:groupmode="layer"
+     id="design"
+     transform="translate(0,-2.0000455)">
+    <g
+       id="divider2"
+       inkscape:label="Divider - Middle">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.294985;stroke-opacity:1"
+         id="rect2"
+         width="76.200005"
+         height="184.14999"
+         x="-168.87949"
+         y="-191.7099"
+         transform="scale(-1)" />
+      <rect
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25;stroke-opacity:1"
+         id="rect5"
+         width="70.4953"
+         height="25.4"
+         x="95.656708"
+         y="10.893299" />
+      <g
+         id="g28">
+        <rect
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25;stroke-opacity:1"
+           id="rect8"
+           width="6.9410763"
+           height="61.168232"
+           x="97.773376"
+           y="40.392872"
+           rx="5.0799999"
+           ry="5.0799999" />
+        <rect
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25;stroke-opacity:1"
+           id="rect9"
+           width="6.9410763"
+           height="61.168232"
+           x="112.60361"
+           y="40.392872"
+           rx="5.0799999"
+           ry="5.0799999" />
+        <rect
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25;stroke-opacity:1"
+           id="rect10"
+           width="6.9410763"
+           height="61.168232"
+           x="127.43385"
+           y="40.392872"
+           rx="5.0799999"
+           ry="5.0799999" />
+        <rect
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25;stroke-opacity:1"
+           id="rect11"
+           width="6.9410763"
+           height="61.168232"
+           x="142.26408"
+           y="40.392872"
+           rx="5.0799999"
+           ry="5.0799999" />
+        <rect
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25;stroke-opacity:1"
+           id="rect12"
+           width="6.9410763"
+           height="61.168232"
+           x="157.09431"
+           y="40.392872"
+           rx="5.0799999"
+           ry="5.0799999" />
+      </g>
+    </g>
+    <g
+       id="diivider1"
+       inkscape:label="Divider - Left">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.294985;stroke-opacity:1"
+         id="rect4"
+         width="76.200005"
+         height="184.14999"
+         x="-84.551605"
+         y="-191.7099"
+         transform="scale(-1)" />
+      <g
+         id="g26">
+        <rect
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25;stroke-opacity:1"
+           id="rect13"
+           width="6.9410763"
+           height="30.584116"
+           x="13.395922"
+           y="157.30663"
+           rx="5.0799999"
+           ry="5.0799999" />
+        <rect
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25;stroke-opacity:1"
+           id="rect14"
+           width="6.9410763"
+           height="30.584116"
+           x="28.226152"
+           y="157.30663"
+           rx="5.0799999"
+           ry="5.0799999" />
+        <rect
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25;stroke-opacity:1"
+           id="rect15"
+           width="6.9410763"
+           height="30.584116"
+           x="43.056396"
+           y="157.30663"
+           rx="5.0799999"
+           ry="5.0799999" />
+        <rect
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25;stroke-opacity:1"
+           id="rect16"
+           width="6.9410763"
+           height="30.584116"
+           x="57.886627"
+           y="157.30663"
+           rx="5.0799999"
+           ry="5.0799999" />
+        <rect
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25;stroke-opacity:1"
+           id="rect17"
+           width="6.9410763"
+           height="30.584116"
+           x="72.716858"
+           y="157.30663"
+           rx="5.0799999"
+           ry="5.0799999" />
+      </g>
+    </g>
+    <g
+       id="divider3"
+       inkscape:label="Divider - Right">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.294985;stroke-opacity:1"
+         id="rect3-0"
+         width="76.200005"
+         height="184.15001"
+         x="-253.20735"
+         y="-191.70992"
+         transform="scale(-1)" />
+      <g
+         id="g30">
+        <rect
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25;stroke-opacity:1"
+           id="rect18"
+           width="6.9410763"
+           height="30.584116"
+           x="181.93393"
+           y="157.08972"
+           rx="5.0799999"
+           ry="5.0799999" />
+        <rect
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25;stroke-opacity:1"
+           id="rect19"
+           width="6.9410763"
+           height="30.584116"
+           x="196.76416"
+           y="157.08972"
+           rx="5.0799999"
+           ry="5.0799999" />
+        <rect
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25;stroke-opacity:1"
+           id="rect20"
+           width="6.9410763"
+           height="30.584116"
+           x="211.59439"
+           y="157.08972"
+           rx="5.0799999"
+           ry="5.0799999" />
+        <rect
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25;stroke-opacity:1"
+           id="rect21"
+           width="6.9410763"
+           height="30.584116"
+           x="226.42462"
+           y="157.08972"
+           rx="5.0799999"
+           ry="5.0799999" />
+        <rect
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25;stroke-opacity:1"
+           id="rect22"
+           width="6.9410763"
+           height="30.584116"
+           x="241.25485"
+           y="157.08972"
+           rx="5.0799999"
+           ry="5.0799999" />
+      </g>
+    </g>
+    <g
+       id="top"
+       inkscape:label="Top">
+      <title
+         id="title1">Top</title>
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.25;stroke-opacity:1"
+         id="rect1"
+         width="368.29999"
+         height="82.549995"
+         x="9.0256319"
+         y="197.07005" />
+      <rect
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.250001;stroke-opacity:1"
+         id="rect3"
+         width="266.90927"
+         height="62.903515"
+         x="105.14204"
+         y="211.54807" />
+      <circle
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.25;stroke-opacity:1"
+         id="circle6"
+         cx="53.306259"
+         cy="238.34505"
+         r="7.9375" />
+    </g>
+    <g
+       id="washer"
+       inkscape:label="Washer">
+      <circle
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.25;stroke-opacity:1"
+         id="path22"
+         cx="319.95184"
+         cy="121.34721"
+         r="15.875"
+         inkscape:label="Washer-Inner" />
+      <circle
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25;stroke-opacity:1"
+         id="circle22"
+         cx="319.95184"
+         cy="121.34721"
+         r="10.541"
+         inkscape:label="Washer-Outer" />
+    </g>
+    <path
+       id="angle3"
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.25;stroke-opacity:1"
+       d="m 262.26874,16.854669 76.2,76.199972 h -76.2 z"
+       sodipodi:nodetypes="cccc"
+       inkscape:label="Angle3" />
+    <path
+       id="angle2"
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.25;stroke-opacity:1"
+       d="m 344.30853,88.411468 -76.2,-76.199999 h 76.2 z"
+       sodipodi:nodetypes="cccc"
+       inkscape:label="Angle2" />
+    <path
+       id="angle1"
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.25;stroke-opacity:1"
+       d="m 261.4011,107.01222 76.2,76.19998 h -76.2 z"
+       sodipodi:nodetypes="cccc"
+       inkscape:label="Angle1" />
+  </g>
+</svg>
